@@ -190,7 +190,7 @@
 
                                 <!-- Intel MKL -->
                                 <!--
-                                <argument>-Dplatform.compiler.default=-march=haswell -m64 -O3 -s -g -mavx2 -mfma -mtune=haswell -fno-omit-frame-pointer -I/opt/intel/mkl/include/ /opt/intel/mkl/lib/intel64_lin/libmkl_intel_lp64.a /opt/intel/mkl/lib/intel64_lin/libmkl_sequential.a /opt/intel/mkl/lib/intel64_lin/libmkl_core.a -DUSE_MKL</argument>
+                                <argument>-Dplatform.compiler.default=-march=haswell -m64 -O3 -s -g -mavx2 -mfma -mtune=haswell -fno-omit-frame-pointer -I/opt/intel/oneapi/mkl/latest/include /opt/intel/oneapi/mkl/latest/lib/libmkl_intel_lp64.a /opt/intel/oneapi/mkl/latest/lib/libmkl_sequential.a /opt/intel/oneapi/mkl/latest/lib/libmkl_core.a -DUSE_MKL</argument>
                                 -->
 
                                 <!-- OpenBLAS -->
