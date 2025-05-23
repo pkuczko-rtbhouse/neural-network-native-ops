@@ -186,7 +186,7 @@
                                 <argument>-d</argument>
                                 <argument>${project.build.sourceDirectory}/../resources/com/rtbhouse/model/natives/</argument>
 
-                                <argument>-Dplatform.compiler=g++-7</argument>
+                                <argument>-Dplatform.compiler=g++-11</argument>
 
                                 <!-- Intel MKL -->
                                 <!--
